@@ -17,6 +17,8 @@ int main() {
         }
         printf("\n");
     }
+
+    //loop 
     for(i=n-1;i>0;i--){
         //anoither for loop
         for(g=n;g>i;g--){
